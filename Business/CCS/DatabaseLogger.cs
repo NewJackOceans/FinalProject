@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Veritabanına Loglandı.");
 
+            
+
         }
     }
     
